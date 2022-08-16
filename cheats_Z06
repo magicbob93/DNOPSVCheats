@@ -1,0 +1,583 @@
+### **ATTENTION: USE THESE CODES WITH Z06 VITACHEAT VERSION**
+
+
+~~~~
+# ID: PCSH00261
+# Title: Digimon World - Next Order
+# Region: ASIA (English Patched)
+# Version: 1.03
+# Type: NoNpDRM
+# Code Author: Magicbob93, Nightwinter/Vaass95, Raidouthe1st, ness151
+# Credits: Farizarch, Phyluna, Nightwinter/Vaass95, Raidouthe1st, ness151, Raegum
+# Used some codes from Nightwinter/Vaass95, found some addresses on Raidouthe1st/ness151 cheat table.
+# Source: https://github.com/r0ah/vitacheat/blob/master/db/PCSH00261.psv
+# Original Source: https://github.com/r0ah/vitacheat/issues/97
+# Note: Made with a English patched version found at nblog.org 
+# Note: Use this only with z06 version of vitacheat 
+
+
+_V0 Bits Modifier (0-9999999)
+$3201 84A5FFCC 00000038
+$3300 00000000 00??????
+
+_V0 NWP Modifier (0-9999999)
+$3201 84A5FFCC 0000003C
+$3300 00000000 00??????
+
+_V0 Exp Modifier (0-9999999)
+$3201 84A5FFCC 00000044
+$3300 00000000 00??????
+
+_V0 TP Modifier (0-99) 
+$3201 84A5FFCC 00000054
+$3300 00000000 000000??
+
+_V0 L&R Partners Order Power Modifiers (0 - 999)
+$0200 8510CEE0 00000???
+$0200 8510D2E0 00000???
+
+_V0 L&R Partners Friendship Modifier (0-100) 
+$3201 84A5FFCC 00000098
+$3300 00000000 000000??
+
+_V0 L Partner Personality Modifier (NOTE 1)
+$3101 862FFAD0 0000001C 
+$3300 00000000 0000000?
+
+_V0 L Partner Curse Modifier (0-20)
+$0200 862FFB00 000000??
+
+_V0 L Partner Discipline Modifier (0-100) 
+$0200 862FFB08 000000??
+
+_V0 L Partner Happiness Modifier (0-100) 
+$0200 862FFB0C 000000??
+
+_V0 L Partner Tiredness Modifier (0-100)
+$0200 862FFB14 000000??
+
+_V0 L Partner Age Modifier (0-100)
+$0200 862FFAF4 000000??
+
+_V0 L Partner Victories Modifier (0-9999) 
+$0200 862FFB20 0000????
+
+_V0 L Partner Bond with Trainer Modifier (0-100) 
+$0200 862FFAF0 000000??
+
+_V0 L Partner Weight Modifier (1-999)
+$3101 862FFAD0 00000020 
+$3300 00000000 00000???
+
+_V0 L Partner Max HP Modifier (1-99999)
+$3101 862FFAD0 00000024 
+$3300 00000000 000?????
+
+_V0 L Partner Current HP Modifier (1-99999)
+$3101 862FFAD0 00000028 
+$3300 00000000 000?????
+
+_V0 L Partner Max MP Modifier (1-99999)
+$3101 862FFAD0 0000002C 
+$3300 00000000 000?????
+
+_V0 L Partner Current MP Modifier (1-99999)
+$3101 862FFAD0 00000030 
+$3300 00000000 000?????
+
+_V0 L Partner STR Modifier (1-9999)
+$3101 862FFAD0 00000034 
+$3300 00000000 0000????
+
+_V0 L Partner STA Modifier (1-9999)
+$3101 862FFAD0 00000038 
+$3300 00000000 0000????
+
+_V0 L Partner WIS Modifier (1-9999)
+$3101 862FFAD0 0000003C 
+$3300 00000000 0000????
+
+_V0 L Partner SPD Modifier (1-9999)
+$3101 862FFAD0 00000040 
+$3300 00000000 0000????
+
+_V0 R Partner Personality Modifier (NOTE 1)
+$3101 862FFAD0 000000CC 
+$3300 00000000 0000000?
+
+_V0 R Partner Discipline Modifier (0-100)
+$0200 862FFD60 000000??
+
+_V0 R Partner Curse Modifier (0-20)
+$0200 862FFD58 000000??
+
+_V0 R Partner Happiness Modifier (0-100)
+$0200 862FFD64 000000??
+
+_V0 R Partner Tiredness Modifier (0-100) 
+$0200 862FFD6C 000000??
+
+_V0 R Partner Age Modifier (0-100)
+$0200 862FFD4C 000000??
+
+_V0 R Partner Victories Modifier (0-9999) 
+$0200 862FFD78 0000????
+
+_V0 R Partner Bond with Trainer Modifier (0-100) 
+$0200 862FFD48 000000??
+
+_V0 R Partner Weight Modifier (1-999)
+$3101 862FFAD0 000000D0 
+$3300 00000000 00000???
+
+_V0 R Partner Max HP Modifier (1-99999)
+$3101 862FFAD0 000000D4 
+$3300 00000000 000?????
+
+_V0 R Partner Current HP Modifier (1-99999)
+$3101 862FFAD0 000000D8 
+$3300 00000000 000?????
+
+_V0 R Partner Max MP Modifier (1-99999)
+$3101 862FFAD0 000000DC 
+$3300 00000000 000?????
+
+_V0 R Partner Current MP Modifier (1-99999)
+$3101 862FFAD0 000000E0 
+$3300 00000000 000?????
+
+_V0 R Partner STR Modifier (1-9999)
+$3101 862FFAD0 000000E4 
+$3300 00000000 0000????
+
+_V0 R Partner STA Modifier (1-9999)
+$3101 862FFAD0 000000E8 
+$3300 00000000 0000????
+
+_V0 R Partner WIS Modifier (1-9999)
+$3101 862FFAD0 000000EC 
+$3300 00000000 0000????
+
+_V0 R Partner SPD Modifier (1-9999)
+$3101 862FFAD0 000000F0 
+$3300 00000000 0000????
+
+_V0 Infinite Materials ONLY for found materials
+$7201 83317B3C 00000034
+$7701 00000000 000003E8
+$0080 00000014 00000000
+
+_V0 Have All Materials 
+$7201 83317B3C 00000038
+$7701 00000000 00000001
+$0080 00000014 00000000
+
+_V0 Warehouse Slot 1 (1-99)
+$0200 84A2F258 ????????
+$0200 84A2F25C 000000??
+
+_V0 Warehouse Slot 2 (1-99)
+$0200 84A2F228 ????????
+$0200 84A2F22C 000000??
+
+_V0 Warehouse Slot 3 (1-99)
+$0200 84A2F1F8 ????????
+$0200 84A2F1FC 000000??
+
+_V0 Warehouse Slot 4 (1-99)
+$0200 84A2F1C8 ????????
+$0200 84A2F1CC 000000??
+
+_V0 Warehouse Slot 5 (1-99)
+$0200 84A2F198 ????????
+$0200 84A2F19C 000000??
+
+_V0 Warehouse Slot 6 (1-99)
+$0200 84A2F168 ????????
+$0200 84A2F16C 000000??
+
+_V0 Warehouse Slot 7 (1-99)
+$0200 84A2F138 ????????
+$0200 84A2F13C 000000??
+
+_V0 Warehouse Slot 8 (1-99)
+$0200 84A2F108 ????????
+$0200 84A2F10C 000000??
+
+_V0 Warehouse Slot 9 (1-99)
+$0200 84A2F0D8 ????????
+$0200 84A2F0DC 000000??
+
+_V0 Warehouse Slot 10 (1-99)
+$0200 84A2F0A8 ????????
+$0200 84A2F0AC 000000??
+
+_V0 Warehouse Slot 11 (1-99)
+$0200 84A2F078 ????????
+$0200 84A2F07C 000000??
+
+_V0 Warehouse Slot 12 (1-99)
+$0200 84A2F048 ????????
+$0200 84A2F04C 000000??
+
+_V0 Warehouse Slot 13 (1-99)
+$0200 84A2F018 ????????
+$0200 84A2F01C 000000??
+
+_V0 Warehouse Slot 14 (1-99)
+$0200 84A2EFE8 ????????
+$0200 84A2EFEC 000000??
+
+_V0 Warehouse Slot 15 (1-99)
+$0200 84A2EFB8 ????????
+$0200 84A2EFBC 000000??
+
+_V0 Warehouse Slot 16 (1-99)
+$0200 84A2EF88 ????????
+$0200 84A2EF8C 000000??
+
+_V0 Warehouse Slot 17 (1-99)
+$0200 84A2EF58 ????????
+$0200 84A2EF5C 000000??
+
+_V0 Warehouse Slot 18 (1-99)
+$0200 84A2EF28 ????????
+$0200 84A2EF2C 000000??
+
+_V0 Warehouse Slot 19 (1-99)
+$0200 84A2EEF8 ????????
+$0200 84A2EEFC 000000??
+
+_V0 Warehouse Slot 20 (1-99)
+$0200 84A2EEC8 ????????
+$0200 84A2EECC 000000??
+
+_V0 Warehouse Slot 21 (1-99)
+$0200 84A2EE98 ????????
+$0200 84A2EE9C 000000??
+
+_V0 Warehouse Slot 22 (1-99)
+$0200 84A2EE68 ????????
+$0200 84A2EE6C 000000??
+
+_V0 Warehouse Slot 23 (1-99)
+$0200 84A2EE38 ????????
+$0200 84A2EE3C 000000??
+
+_V0 Warehouse Slot 24 (1-99)
+$0200 84A2EE08 ????????
+$0200 84A2EE0C 000000??
+
+_V0 Warehouse Slot 25 (1-99)
+$0200 84A2EDD8 ????????
+$0200 84A2EDDC 000000??
+
+_V0 Warehouse Slot 26 (1-99)
+$0200 84A2EDA8 ????????
+$0200 84A2EDAC 000000??
+
+_V0 Warehouse Slot 27 (1-99)
+$0200 84A2ED78 ????????
+$0200 84A2ED7C 000000??
+
+_V0 Warehouse Slot 28 (1-99)
+$0200 84A2ED48 ????????
+$0200 84A2ED4C 000000??
+
+_V0 Warehouse Slot 29 (1-99)
+$0200 84A2ED18 ????????
+$0200 84A2ED1C 000000??
+
+_V0 Warehouse Slot 30 (1-99)
+$0200 84A2ECE8 ????????
+$0200 84A2ECEC 000000??
+
+_V0 Warehouse Slot 31 (1-99)
+$0200 84A2ECB8 ????????
+$0200 84A2ECBC 000000??
+
+_V0 Warehouse Slot 32 (1-99)
+$0200 84A2EC88 ????????
+$0200 84A2EC8C 000000??
+
+_V0 Warehouse Slot 33 (1-99)
+$0200 84A2EC58 ????????
+$0200 84A2EC5C 000000??
+
+_V0 Warehouse Slot 34 (1-99)
+$0200 84A2EC28 ????????
+$0200 84A2EC2C 000000??
+
+_V0 Warehouse Slot 35 (1-99)
+$0200 84A2EBF8 ????????
+$0200 84A2EBFC 000000??
+
+_V0 Warehouse Slot 36 (1-99)
+$0200 84A2EBC8 ????????
+$0200 84A2EBCC 000000??
+
+_V0 Warehouse Slot 37 (1-99)
+$0200 84A2EB98 ????????
+$0200 84A2EB9C 000000??
+
+_V0 Warehouse Slot 38 (1-99)
+$0200 84A2EB68 ????????
+$0200 84A2EB6C 000000??
+
+_V0 Warehouse Slot 39 (1-99)
+$0200 84A2EB38 ????????
+$0200 84A2EB3C 000000??
+
+_V0 Warehouse Slot 40 (1-99)
+$0200 84A2EB08 ????????
+$0200 84A2EB0C 000000??
+
+_V0 Warehouse Slot 41 (1-99)
+$0200 84A2EAD8 ????????
+$0200 84A2EADC 000000??
+
+_V0 Warehouse Slot 42 (1-99)
+$0200 84A2EAA8 ????????
+$0200 84A2EAAC 000000??
+
+_V0 Warehouse Slot 43 (1-99)
+$0200 84A2EA78 ????????
+$0200 84A2EA7C 000000??
+
+_V0 Warehouse Slot 44 (1-99)
+$0200 84A2EA48 ????????
+$0200 84A2EA4C 000000??
+
+_V0 Warehouse Slot 45 (1-99)
+$0200 84A2EA18 ????????
+$0200 84A2EA1C 000000??
+
+_V0 Warehouse Slot 46 (1-99)
+$0200 84A2E9E8 ????????
+$0200 84A2E9EC 000000??
+
+_V0 Warehouse Slot 47 (1-99)
+$0200 84A2E9B8 ????????
+$0200 84A2E9BC 000000??
+
+_V0 Warehouse Slot 48 (1-99)
+$0200 84A2E988 ????????
+$0200 84A2E98C 000000??
+
+_V0 Warehouse Slot 49 (1-99)
+$0200 84A2E958 ????????
+$0200 84A2E95C 000000??
+
+_V0 Warehouse Slot 50 (1-99)
+$0200 84A2E928 ????????
+$0200 84A2E92C 000000??
+
+_V0 Warehouse Slot 51 (1-99)
+$0200 84A2E8F8 ????????
+$0200 84A2E8FC 000000??
+
+_V0 Warehouse Slot 52 (1-99)
+$0200 84A2E8C8 ????????
+$0200 84A2E8CC 000000??
+
+_V0 Warehouse Slot 53 (1-99)
+$0200 84A2E898 ????????
+$0200 84A2E89C 000000??
+
+_V0 Warehouse Slot 54 (1-99)
+$0200 84A2E868 ????????
+$0200 84A2E86C 000000??
+
+_V0 Warehouse Slot 55 (1-99)
+$0200 84A2E838 ????????
+$0200 84A2E83C 000000??
+
+_V0 Warehouse Slot 56 (1-99)
+$0200 84A2E808 ????????
+$0200 84A2E80C 000000??
+
+_V0 Warehouse Slot 57 (1-99)
+$0200 84A2E7D8 ????????
+$0200 84A2E7DC 000000??
+
+_V0 Warehouse Slot 58 (1-99)
+$0200 84A2E7A8 ????????
+$0200 84A2E7AC 000000??
+
+_V0 Warehouse Slot 59 (1-99)
+$0200 84A2E778 ????????
+$0200 84A2E77C 000000??
+
+_V0 Warehouse Slot 60 (1-99)
+$0200 84A2E748 ????????
+$0200 84A2E74C 000000??
+
+_V0 Warehouse Slot 61 (1-99)
+$0200 84A2E718 ????????
+$0200 84A2E71C 000000??
+
+_V0 Warehouse Slot 62 (1-99)
+$0200 84A2E6E8 ????????
+$0200 84A2E6EC 000000??
+
+_V0 Warehouse Slot 63 (1-99)
+$0200 84A2E6B8 ????????
+$0200 84A2E6BC 000000??
+
+_V0 Warehouse Slot 64 (1-99)
+$0200 84A2E688 ????????
+$0200 84A2E68C 000000??
+
+_V0 Warehouse Slot 65 (1-99)
+$0200 84A2E658 ????????
+$0200 84A2E65C 000000??
+
+_V0 Warehouse Slot 66 (1-99)
+$0200 84A2E628 ????????
+$0200 84A2E62C 000000??
+
+_V0 Warehouse Slot 67 (1-99)
+$0200 84A2E5F8 ????????
+$0200 84A2E5FC 000000??
+
+_V0 Warehouse Slot 68 (1-99)
+$0200 84A2E5C8 ????????
+$0200 84A2E5CC 000000??
+
+_V0 Warehouse Slot 69 (1-99)
+$0200 84A2E598 ????????
+$0200 84A2E59C 000000??
+
+_V0 Warehouse Slot 70 (1-99)
+$0200 84A2E568 ????????
+$0200 84A2E56C 000000??
+
+_V0 Warehouse Slot 71 (1-99)
+$0200 84A2E538 ????????
+$0200 84A2E53C 000000??
+
+_V0 Warehouse Slot 72 (1-99)
+$0200 84A2E508 ????????
+$0200 84A2E50C 000000??
+
+_V0 Warehouse Slot 73 (1-99)
+$0200 84A2E4D8 ????????
+$0200 84A2E4DC 000000??
+
+_V0 Warehouse Slot 74 (1-99)
+$0200 84A2E4A8 ????????
+$0200 84A2E4AC 000000??
+
+_V0 Warehouse Slot 75 (1-99)
+$0200 84A2E478 ????????
+$0200 84A2E47C 000000??
+
+_V0 Warehouse Slot 76 (1-99)
+$0200 84A2E448 ????????
+$0200 84A2E44C 000000??
+
+_V0 Warehouse Slot 77 (1-99)
+$0200 84A2E418 ????????
+$0200 84A2E41C 000000??
+
+_V0 Warehouse Slot 78 (1-99)
+$0200 84A2E3E8 ????????
+$0200 84A2E3EC 000000??
+
+_V0 Warehouse Slot 79 (1-99)
+$0200 84A2E3B8 ????????
+$0200 84A2E3BC 000000??
+
+_V0 Warehouse Slot 80 (1-99)
+$0200 84A2E388 ????????
+$0200 84A2E38C 000000??
+
+_V0 Warehouse Slot 81 (1-99)
+$0200 84A2E358 ????????
+$0200 84A2E35C 000000??
+
+_V0 Warehouse Slot 82 (1-99)
+$0200 84A2E328 ????????
+$0200 84A2E32C 000000??
+
+_V0 Warehouse Slot 83 (1-99)
+$0200 84A2E2F8 ????????
+$0200 84A2E2FC 000000??
+
+_V0 Warehouse Slot 84 (1-99)
+$0200 84A2E2C8 ????????
+$0200 84A2E2CC 000000??
+
+_V0 Warehouse Slot 85 (1-99)
+$0200 84A2E298 ????????
+$0200 84A2E29C 000000??
+
+_V0 Warehouse Slot 86 (1-99)
+$0200 84A2E268 ????????
+$0200 84A2E26C 000000??
+
+_V0 Warehouse Slot 87 (1-99)
+$0200 84A2E238 ????????
+$0200 84A2E23C 000000??
+
+_V0 Warehouse Slot 88 (1-99)
+$0200 84A2E208 ????????
+$0200 84A2E20C 000000??
+
+_V0 Warehouse Slot 89 (1-99)
+$0200 84A2E1D8 ????????
+$0200 84A2E1DC 000000??
+
+_V0 Warehouse Slot 90 (1-99)
+$0200 84A2E1A8 ????????
+$0200 84A2E1AC 000000??
+
+_V0 Warehouse Slot 91 (1-99)
+$0200 84A2E178 ????????
+$0200 84A2E17C 000000??
+
+_V0 Warehouse Slot 92 (1-99)
+$0200 84A2E148 ????????
+$0200 84A2E14C 000000??
+
+_V0 Warehouse Slot 93 (1-99)
+$0200 84A2E118 ????????
+$0200 84A2E11C 000000??
+
+_V0 Warehouse Slot 94 (1-99)
+$0200 84A2E0E8 ????????
+$0200 84A2E0EC 000000??
+
+_V0 Warehouse Slot 95 (1-99)
+$0200 84A2E0B8 ????????
+$0200 84A2E0BC 000000??
+
+_V0 Warehouse Slot 96 (1-99)
+$0200 84A2E088 ????????
+$0200 84A2E08C 000000??
+
+_V0 Warehouse Slot 97 (1-99)
+$0200 84A2E058 ????????
+$0200 84A2E05C 000000??
+
+_V0 Warehouse Slot 98 (1-99)
+$0200 84A2E028 ????????
+$0200 84A2E02C 000000??
+
+_V0 Warehouse Slot 99 (1-99)
+$0200 84A2DFF8 ????????
+$0200 84A2DFFC 000000??
+
+_V0 Warehouse Slot 100 (1-99)
+$0200 84A2DFC8 ????????
+$0200 84A2DFCC 000000??
+
+
+_V0 NOTE 1 - Values are:
+_V0 01 = Honest
+_V0 02 = Cynical
+_V0 03 = Irresponsible
+_V0 04 = Fastidious
+_V0 05 = hot-blooded
+_V0 06 = Cool-Headed
+~~~~

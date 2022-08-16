@@ -1,0 +1,355 @@
+<?xml version="1.0"?>
+<Root>
+	<Items>
+		<Category>
+			<Key-Quest>
+				<Item>Royal Digijelly - 056A070A</Item>
+				<Item>Haguru Bear - 056A070B</Item>
+				<Item>Rapidmon's cellphone - 056A0708</Item>
+				<Item>Strong Branch - FF69FDFC</Item>
+				<Item>???² - FF69FDFF</Item>
+				<Item>???² - FF69FDFE</Item>
+				<Item>Cyber Grease - FF69FDFD</Item>
+				<Item>Magma Lozenge - FF69FDF1</Item>
+				<Item>MegaSea Fishy Picture - FF69FDF0</Item>
+				<Item>Digipate - 0069FF62</Item>
+				<Item>Myobrella - 0069FF63</Item>
+				<Item>Holey Chalice - 0069FF68</Item>
+				<Item>Digi-Battery - 0069FF69</Item>
+				<Item>Virtual mem. Foam Pillow - 0069FF6A</Item>
+				<Item>ToyAgu Block - 0069FF6B</Item>
+				<Item>Stingmon's letter - 0069FF6C</Item>
+				<Item>Magnamon's Autograph - 0069FF6D</Item>
+				<Item>Platinum Poop Medal - 0069FF6E</Item>
+				<Item>SkullGrey Ring - 0069FF6F</Item>				
+			</Key-Quest>
+			<Care-Recovery-Battle>
+				<Item>Portable Toilet - 016A00DF</Item>
+				<Item>Auto-Pilot - 016A00DC</Item>
+				<Item>Bandage - 016A00DD</Item>
+				<Item>Medicine - 016A00DA</Item>
+				<Item>Recovery Disc - 858ECCBD</Item>
+				<Item>Medium Recovery Disc - 858ECCBE</Item>
+				<Item>Large Recovery Disc - 858ECCBF</Item>
+				<Item>Super Recovery Disc - 858ECCB8</Item>
+				<Item>Large Recovery Holo-Disc - 858ECCB9</Item>
+				<Item>Super Recovery Holo-Disc - 858ECCBA</Item>
+				<Item>MP Disc - 858ECCB5</Item>
+				<Item>Medium MP Disc - 868ECE2F</Item>
+				<Item>Large MP Disc - 868ECE2E</Item>
+				<Item>Large MP Holo-Disc - 868ECE2D</Item>
+				<Item>Double Disc - 868ECE2A</Item>
+				<Item>Large Double Disc - 868ECE29</Item>
+				<Item>Super Double Disc - 868ECE28</Item>
+				<Item>Super Double Holo-Disc - 868ECE27</Item>
+				<Item>Remedy Disc¹ - D64E8AEB</Item>
+				<Item>Full Recovery Disc - D64E8AE8</Item>
+				<Item>Recovery Holo-Disc - D64E8AE9</Item>
+				<Item>Full Recovery Holo-Disc - D64E8AE6</Item>
+				<Item>Regen Disc - D64E8AE7</Item>
+				<Item>Super Regen Disc - D74E8C41</Item>
+				<Item>Attack Plugin - D44E8789</Item>
+				<Item>Attack Plugin S - D44E878A</Item>
+				<Item>Attack Plugin X - D44E878B</Item>
+				<Item>Defense Plugin³ - </Item>
+				<Item>Defense Plugin S³ - </Item>
+				<Item>Defense Plugin X³ - </Item>
+				<Item>Utility Plugin - D44E878C</Item>
+				<Item>Utility Plugin S - D44E878D</Item>
+				<Item>Utility Plugin X - D44E878E</Item>
+				<Item>Attack Booster S - D44E878F</Item>
+				<Item>Attack Booster X - D44E8780</Item>
+				<Item>Defense Booster S³ - </Item>
+				<Item>Defense Booster X³ - </Item>
+				<Item>Utility Booster S³ - D44E8781</Item>
+				<Item>Utility Booster X - D54E897B</Item>
+			</Care-Recovery-Battle>
+			<Chips>
+				<Item>HP Chip - 016A00DB</Item>
+				<Item>MP Chip - 016A00D8</Item>
+				<Item>Strength Chip - 016A00D9</Item>
+				<Item>Stamina Chip - 016A00D6</Item>
+				<Item>Wisdom Chip - 016A00D7</Item>
+				<Item>Speed Chip - 026A02B1</Item>
+				<Item>Devil Chip A - 026A02B0</Item>
+				<Item>Devil Chip D - 026A02B3</Item>
+				<Item>Devil Chip E - 026A02B2</Item>
+				<Item>HP Chip Mini - 026A02B5</Item>
+				<Item>MP Chip Mini - 026A02B4</Item>
+				<Item>Strength Chip Mini - 026A02B7</Item>
+				<Item>Stamina Chip Mini - 026A02B6</Item>
+				<Item>Wisdom Chip Mini - 026A02B9</Item>
+				<Item>Speed Chip Mini - 026A02B8</Item>
+				<Item>Stealth Chip³ - </Item>		
+			</Chips>
+			<Ingredients>
+				<Meat>
+					<Item>Meat - 87D4E963</Item>
+					<Item>Hunk of Meat - 87D4E960</Item>
+					<Item>Best Meat - 87D4E961</Item>
+					<Item>Well Done Meat - 87D4E966</Item>
+					<Item>Rotten Meat - 87D4E967</Item>
+					<Item>Marbled Beef - 87D4E964</Item>
+					<Item>Cube Meat - 87D4E965</Item>
+					<Item>Steel Meat - 87D4E96A</Item>
+					<Item>Colorful Meat - 87D4E96B</Item>
+				</Meat>
+				<Fruit>
+					<Item>Cheerful Apple - 88D4EAD6</Item>
+					<Item>Conductor Lemon - 88D4EAD1</Item>
+					<Item>Golden Acorn - 88D4EAD0</Item>
+					<Item>Baby Strawberry - 88D4EAD3</Item>
+					<Item>Celestial Chestnut - 88D4EAD2</Item>
+					<Item>Orange Banana - 88D4EADD</Item>
+					<Item>Rotting Melon - 88D4EADC</Item>
+					<Item>Cloudy Orange - 85D4E61C</Item>
+					<Item>Confusion Cherry - 85D4E61D</Item>			
+				</Fruit>
+				<Vegetable>
+					<Item>Ginseng - 85D4E619</Item>
+					<Item>Sakura Bird Radish - 85D4E61A</Item>
+					<Item>Obscure Onion - 85D4E61B</Item>
+					<Item>Drizzle Cabbage - 85D4E614</Item>
+					<Item>Soft Gold Pumpkin - 85D4E615</Item>
+					<Item>Spotted Tomato - 86D4E78F</Item>
+					<Item>Jaguar Potato - 86D4E78E</Item>
+					<Item>Kamon Aubergine - 86D4E78D</Item>
+					<Item>Mandrake - 86D4E78C</Item>			
+				</Vegetable>
+				<Mushroom>
+					<Item>Digistalk - 86D4E788</Item>
+					<Item>Green Digistalk - 86D4E787</Item>
+					<Item>Frostcut Mushroom - 86D4E786</Item>
+					<Item>Unlucky Shroom - 83D4E336</Item>
+					<Item>Deluxe Mushroom - 83D4E337</Item>
+					<Item>Fighty Fungus - 83D4E334</Item>
+					<Item>Celebration Nameko - 83D4E335</Item>
+					<Item>Coriander - 83D4E332</Item>
+					<Item>Scratchy Grass - 83D4E333</Item>			
+				</Mushroom>		
+				<Nut>
+					<Item>Salty Fruit - 83D4E33F</Item>
+					<Item>Quick Fruit - 84D4E4A9</Item>
+					<Item>Acrid Fruit - 84D4E4A8</Item>
+					<Item>Rolly Fruit - 84D4E4AB</Item>
+					<Item>Duty Fruit - 84D4E4AA</Item>
+					<Item>Dozy Fruit - 84D4E4AD</Item>
+					<Item>Az Nut - 84D4E4AC</Item>
+					<Item>Cobb Fruit - 84D4E4AF</Item>
+					<Item>Oily Fruit - 84D4E4AE</Item>			
+				</Nut>
+				<Drink>
+					<Item>Digital Ion Water - 81D4DFD1</Item>
+					<Item>Neon Drink - 81D4DFD2</Item>
+					<Item>File Soda - 81D4DFD3</Item>
+					<Item>Infini-Water - 81D4DFD4</Item>
+					<Item>Hot Water - 81D4DFD5</Item>
+					<Item>Absolute Zero Water - 81D4DFD6</Item>
+					<Item>Triangular Milk - 81D4DFD7</Item>
+					<Item>Deep Sea Essence - 81D4DFD8</Item>
+					<Item>Phantom Nectar - 81D4DFD9</Item>			
+				</Drink>
+				<Fish>
+					<Item>Digifry - 82D4E140</Item>
+					<Item>Digicrucian - 82D4E147</Item>
+					<Item>Digikoi - 82D4E146</Item>
+					<Item>Digicarp - 82D4E145</Item>
+					<Item>Digibitterling - 82D4E144</Item>
+					<Item>Digisalmon - 82D4E14B</Item>
+					<Item>Digitrout - 82D4E14A</Item>
+					<Item>Black Digitrout - 8FD4F5DA</Item>
+					<Item>Digiloach - 8FD4F5DB</Item>
+					<Item>Digieel - 8FD4F5D8</Item>
+					<Item>Digicatfish - 8FD4F5D9</Item>
+					<Item>Digiarowana - 8FD4F5DE</Item>
+					<Item>Digipirarucu - 8FD4F5DF</Item>
+					<Item>Digisnakehead - 8FD4F5DC</Item>
+					<Item>Digituna - 8FD4F5DD</Item>			
+				</Fish>
+			</Ingredients>	
+			<Digivolution>
+				<Item>Onychauxite - 97E4043A</Item>
+				<Item>Lupargentite - 97E40439</Item>
+				<Item>Flagralacite - 97E40438</Item>
+				<Item>Sacravestite - 97E4043F</Item>
+				<Item>Galeamite - 97E4043E</Item>
+				<Item>Cornargentite - 97E4043D</Item>
+				<Item>Spinaviridite - 97E4043C</Item>
+				<Item>Felideusite - 97E40433</Item>
+				<Item>Dracocursite - 97E40432</Item>
+				<Item>Frumentadgressite - 96E40249</Item>
+				<Item>Porphyrinite - 96E4024A</Item>
+				<Item>Armacanisite - 96E4024B</Item>
+				<Item>Leporobscurite - 96E4024C</Item>
+				<Item>Campanavulpesite - 96E4024D</Item>
+				<Item>Bestiapugnite - 96E4024E</Item>
+				<Item>Tonitrumagusite - 96E40240</Item>
+				<Item>Magusalaite - 96E40241</Item>
+				<Item>Virtumilitite - 99E40701</Item>
+				<Item>Displodungulite - 99E40700</Item>
+				<Item>Animossisite - 99E40702</Item>
+				<Item>Leorectite - 99E40705</Item>
+				<Item>Ignisite - 99E40704</Item>
+				<Item>Holusagerite - 99E40706</Item>
+				<Item>Belluite - 99E40708</Item>
+				<Item>Mareserpensite - 98E405AC</Item>
+				<Item>Caesaforfexite - 98E405AD</Item>
+				<Item>Armaferrite - 98E405AA</Item>
+				<Item>Inanarborite - 98E405A9</Item>
+				<Item>Reliquite - 98E405A6</Item>
+				<Item>Pilagelumite - 98E405A7</Item>
+				<Item>Frigusanimite - 9BE40A67</Item>
+				<Item>Caelamorite - 9BE40A66</Item>
+				<Item>Catullargentite - 9BE40A65</Item>
+				<Item>Fremilupusite - 9BE40A64</Item>
+				<Item>Umbralaite - 9BE40A63</Item>
+				<Item>Felitenebrite - 9BE40A62</Item>
+				<Item>Ventanimite - 9BE40A60</Item>
+				<Item>Proteguarite - 9BE40A6F</Item>
+				<Item>Nymphavulpesite - 9BE40A6E</Item>
+				<Item>Rubemilitite - 9AE408F4</Item>
+				<Item>Aurimilitite - 9AE408F5</Item>
+				<Item>Aliquaestite - 9AE408F6</Item>
+				<Item>Indicungulite - 9AE408F7</Item>
+				<Item>Luparcanite - 9AE408F0</Item>
+				<Item>Holurufite - 9AE408F1</Item>
+				<Item>Grandimagite - 9AE408F2</Item>
+				<Item>Crystallumagite - 9AE408F3</Item>
+				<Item>Perdepupite - 9AE408FC</Item>
+				<Item>Ossoculite - 9AE408FD</Item>
+				<Item>Extracaptivite - 9DE40D4D</Item>
+				<Item>Verteconligite - 9DE40D4C</Item>
+				<Item>Vertecandescite - 9DE40D4F</Item>
+				<Item>Dracoturbidite - 9DE40D49</Item>
+				<Item>Dracocatullite - 9DE40D4E</Item>
+				<Item>Feliprudentite - 9DE40D48</Item>
+				<Item>Ferrumachinice - 9DE40D4B</Item>
+				<Item>Lupugnice - 9DE40D4A</Item>
+				<Item>Caelumagnice - 9DE40D45</Item>
+				<Item>Argentalice - 9DE40D44</Item>
+				<Item>Rexicornice - 9CE40BDA</Item>
+				<Item>Maripecusice - 9CE40BDB</Item>
+				<Item>Lilice - 9CE40BD8</Item>
+				<Item>Sacrarcice - 9CE40BD9</Item>
+				<Item>Dracobestiolice - 9CE40BDE</Item>
+				<Item>Geminalaminice - 9CE40BDC</Item>
+				<Item>Scitiferinice - 9CE40BDD</Item>
+				<Item>Altisolumice - 9CE40BD2</Item>
+				<Item>Fortunice - 9CE40BD3</Item>
+				<Item>Extimicelerice - 8FE3F743</Item>
+				<Item>Bellatoralice - 8FE3F741</Item>
+				<Item>Noxipretiosice - 8FE3F740</Item>
+				<Item>Nymphalice - 8FE3F747</Item>
+				<Item>Parvuliplumbice - 8FE3F745</Item>
+				<Item>Parvularmice - 8FE3F744</Item>
+				<Item>Sacramagice - 8FE3F74A</Item>
+				<Item>Dirumpimpetice - 8EE3F5D0</Item>
+				<Item>Tenebrossice - 8EE3F5D1</Item>
+				<Item>Nigeribrachice - 8EE3F5D2</Item>
+				<Item>Dracobrachice - 8EE3F5D3</Item>
+				<Item>Blancorexice - 8EE3F5D4</Item>
+				<Item>Pugnusice - 8EE3F5D5</Item>
+				<Item>Caerulignice - 8EE3F5D8</Item>
+				<Item>Tonitrulaminice - 91E1BC33</Item>
+				<Item>Malisarculice - 91E1BC30</Item>
+				<Item>Quantice - 91E1BC35</Item>
+				<Item>Lapsapraecepice - 91E1BC3B</Item>
+				<Item>Machinindicice - 92E1BDA5</Item>
+				<Item>Lupumbrice - 92E1BDA4</Item>
+				<Item>Caerulicornice - 92E1BDA7</Item>
+				<Item>Lutelaminice - 92E1BDA6</Item>
+				<Item>Arcanalaminice - 92E1BDA1</Item>
+				<Item>Auriferinice - 92E1BDA0</Item>
+				<Item>Quinquelementice - 92E1BDA3</Item>
+				<Item>Viaplenice - 92E1BDA2</Item>
+				<Item>Malicoluberice - 92E1BDAD</Item>
+				<Item>Risicoelice - 92E1BDAC</Item>
+				<Item>Amorostice - 8FE1B8EC</Item>
+				<Item>Pugnilignice - 8FE1B8ED</Item>
+				<Item>Mortiperditice - 8FE1B8EE</Item>
+				<Item>Felimagice - 8FE1B8EF</Item>
+				<Item>Fortidracine - 8FE1B8E8</Item>
+				<Item>Solluxine - 8FE1B8E9</Item>
+				<Item>Tormentilupine - 8FE1B8EA</Item>
+				<Item>Phoenixine - 8FE1B8E4</Item>
+				<Item>Archangeline - 8FE1B8E5</Item>
+				<Item>Ferrigaleatine - 90E1BA5F</Item>
+				<Item>Stiriacine - 90E1BA5E</Item>
+				<Item>Bellaspinine - 90E1BA5D</Item>
+				<Item>Sacradracine - 90E1BA5C</Item>
+				<Item>Oceadivine² - 90E1BA5B</Item>
+				<Item>Armaesquetrine - 90E1BA5A</Item>
+				<Item>Lanceaesquetrine - 90E1BA58</Item>
+				<Item>Gravivestitine - 90E1BA57</Item>
+				<Item>Sophicoeline - 90E1BA56</Item>
+				<Item>Veneficiflorine - 8DE1B586</Item>
+				<Item>Umbrilunine - 8DE1B587</Item>
+				<Item>Indicaesquetrine - 8DE1B585</Item>
+				<Item>Tenebrivirine - 8DE1B582</Item>
+				<Item>Cupidimagine - 8DE1B583</Item>
+				<Item>Justivine² - 8DE1B580</Item>
+				<Item>Pulcineline² - 8DE1B58E</Item>
+				<Item>Superbimagine - 8DE1B58F</Item>
+				<Item>Hebetimpetine - 8EE1B779</Item>
+				<Item>Censurexine - 8EE1B778</Item>
+				<Item>Infinitine - 8EE1B77B</Item>
+				<Item>Impetimagine - 8EE1B77A</Item>
+				<Item>Supermyriadine - 8EE1B77C</Item>
+				<Item>Invidimagine - 8EE1B77F</Item>
+				<Item>Candescaesquetrine - 8EE1B77E</Item>
+				<Item>Hatchetrambine² - 8EE1B771</Item> 
+				<Item>Iramagine - 8EE1B770</Item>
+				<Item>Machinimarine - 8BE1B2A2</Item>
+				<Item>Magiforcepine - 8BE1B2A3</Item>
+				<Item>Incurimagine - 8BE1B2A5</Item>
+				<Item>Fortimagine - 8BE1B2A6</Item>
+				<Item>Larvidivine - 8BE1B2A8</Item>
+				<Item>Duraesquetine - 8BE1B2A9</Item>
+				<Item>Arcaesquetrine - 8CE1B413</Item>
+				<Item>Cranaesquetrine - 8CE1B412</Item>
+				<Item>Purinegrine - 8CE1B411</Item>
+				<Item>Negrilupine - 8CE1B410</Item>
+				<Item>Immiscechaosine - 8CE1B417</Item>
+				<Item>Dracaesquetrine - 8BE1B2A7</Item>
+				<Item>Hederafoline - 8CE1B416</Item>
+				<Item>Auctimaline - 8CE1B415</Item>
+				<Item>Supersimine - 8CE1B414</Item>
+				<Item>Impudentine - 8CE1B41B</Item>
+				<Item>Locicoeline - 8CE1B41A</Item>
+				<Item>Imperadracine - 99E1C8AA</Item>
+				<Item>Bestaesquetrine - 99E1C8A8</Item>
+				<Item>Justitaesquetrine - 99E1C8A9</Item>
+				<Item>Misericordisenexine - 99E1C8AE</Item>
+				<Item>Negraesquetrine - 99E1C8AF</Item>
+				<Item>Studaesquetrine - 99E1C8AC</Item>
+				<Item>Magicoeline - 99E1C8AD</Item>
+				<Item>Crenasolarine³ - </Item>
+				<Item>Eddimansine³ - </Item>
+				<Item>Swordivine³ - </Item>
+				<Item>Crenaspine³ - </Item>
+				<Item>Lunadivine³ - </Item>
+				<Item>Shadracotine³ - </Item>
+				<Item>Heropotentatine³ - </Item>
+				<Item>Sollupusine³ - </Item>
+				<Item>Draconite³ - </Item>
+				<Item>Dracoferocetine³ - </Item>
+				<Item>Imperapugnine - 9AE1CA1D</Item>
+				<Item>Salicelerine - 99E1C8A2</Item>
+				<Item>Sacrimperine - 9AE1CA1C</Item>
+				<Item>Septamagine - 9AE1CA1F</Item>
+				<Item>Interitine - 9AE1CA19</Item>
+				<Item>Rufaesquetrine - 9AE1CA18</Item>
+				<Item>Summaesquetrine - 9AE1CA1B</Item>
+				<Item>Summanegrine - 9AE1CA1A</Item>
+				<Item>Ministerine - 9AE1CA15</Item>
+				<Item>Mutatinegrine - 9AE1CA14</Item>
+				<Item>Pernicite³ - </Item>
+			</Digivolution>		
+		</Category>
+	</Items>
+	<PS>
+		<One>Correct name is "remedy disc", but it's called "recovery disc" in PSVita translation</One>
+		<Two>Item has no name and no description whatsoever.</Two>
+		<Three>Item doesn't exist in the game(not at v1.03 at least) </Three>
+	</PS>
+</Root>
